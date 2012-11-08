@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Frezh
+tagline: training & consultancy
 ---
 {% include JB/setup %}
 
